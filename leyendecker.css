@@ -551,3 +551,8 @@ span.rm-page-ref[data-tag="Questions"], span[data-link-title^="Questions"] .rm-p
    font-size: 80%;
    color: #A5C16A;
 }
+
+/* add by chixiang 20201228 */
+.rm-page-ref-brackets {
+    display: none;
+}
